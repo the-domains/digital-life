@@ -1,0 +1,28 @@
+name: Digital Life
+favicon: null
+layout_spectrum: 0.8193402569741011
+typography_spectrum: 0.7424392187967896
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6818169739563018
+  lightness: 0.8932128783781081
+  saturation: 0.701950722374022
+  rhythmicContrast: 0.9827278880402446
+purpose: []
