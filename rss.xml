@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Digital Life]]></title>
         <description><![CDATA[Digital Life]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/digital-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 19:48:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Dec 2015 19:53:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/digital-life/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://rack.0.mshcdn.com/media/ZgkyMDE1LzEyLzIzL2M3L2lwaG9uZWFwcHMyLjVhMGMyLmpwZwpwCXRodW1iCTk1MHg1MzQjCmUJanBn/75e2bf19/f0d/iphoneapps2015.jpg">]]></description>
+            <link>https://thegrid.ai/digital-life/107d9620-f7d7-4bc1-9325-69eb5bff171e/index.html</link>
+            <guid isPermaLink="false">107d9620-f7d7-4bc1-9325-69eb5bff171e</guid>
+            <pubDate>Wed, 23 Dec 2015 19:53:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Digital Trends for 2015]]></title>
-            <description><![CDATA[<article><h1>Digital Trends for 2015</h1><p>The 2015 Digital Trends Briefing, in association with Econsultancy, explores the key market data, trends and opportunities that digital analysts should be aware of the coming year - covering a range of topics from the benefits of data-driven marketing to the current struggle to accurately measure ROI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/45a30b4f137eb4b0f3165ba1b095d1d24f00bc86.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Digital Trends for 2015</h1><p>The 2015 Digital Trends Briefing, in association with Econsultancy, explores the key market data, trends and opportunities that digital analysts should be aware of the coming year - covering a range of topics from the benefits of data-driven marketing to the current struggle to accurately measure ROI.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a625fc22961d8a7296c2dff872b46a9e3e14daa.jpg"></article>]]></description>
             <link>http://offers.adobe.com/en/uk/marketing/landings/econsultancy_digital_trends_report_2015.html?s_cid=70114000002JMGmAAO&amp;s_iid=70114000002JLa8AAG&amp;s_kwcid=AL!3085!3!87657699539!b!!g!!marketing%20cloud%20adobe&amp;ef_id=U1dpNAAABGwFkggP:20151223194720:s</link>
             <guid isPermaLink="false">c6186a27-e871-4954-9573-ee38cc9cc7fe</guid>
             <pubDate>Wed, 23 Dec 2015 19:48:01 GMT</pubDate>
