@@ -34,7 +34,7 @@ color:
     - '#FD541C'
     - '#FBF71A'
   brandStrength: 0
-  lightness: 0.8422939
+  lightness: 1
   saturation: 0.875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0
 purpose: []
