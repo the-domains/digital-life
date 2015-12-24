@@ -1,9 +1,7 @@
-favicon: null
 name: Digital Life
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.51446
+typography_spectrum: 0.6738351
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  lightness: 0.8422939
-  brandStrength: 0.3602151
   brandColors:
     - '#FFFFFF'
     - '#292323'
     - '#931C80'
     - '#FD541C'
     - '#FBF71A'
+  brandStrength: 0.3602151
+  lightness: 0.8422939
+  saturation: 0
   rhythmicContrast: 0.6164874
-typography_spectrum: 0.6738351
-layout_spectrum: 0.7598566
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+purpose: []
