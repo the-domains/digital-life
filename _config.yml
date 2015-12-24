@@ -35,6 +35,6 @@ color:
     - '#FBF71A'
   brandStrength: 1
   lightness: 0.8422939
-  saturation: 0
-  rhythmicContrast: 0.6164874
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
