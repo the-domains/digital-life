@@ -17,8 +17,8 @@ keywords:
   - video
   - forrester
 description: "As 2015 draws to a close, digital marketing experts agree it has been a milestone year which has transformed the way businesses interact with customers online. We've spoken to a raft of marketing leaders, analysts and industry commentators about what the digital marketing mix will look like in the new year and whether 2016 is shaping up to be even more competitive, complex and evolutionary."
-datePublished: '2015-12-24T12:55:29.782Z'
-dateModified: '2015-12-24T12:54:55.810Z'
+datePublished: '2015-12-24T14:59:10.233Z'
+dateModified: '2015-12-24T14:59:01.201Z'
 author:
   - name: Azadeh Williams
     url: 'http://www.cmo.com.au/author/2147448162/azadeh-williams/articles'
@@ -45,6 +45,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# 16 Digital Marketing Trends For 2016
-
 <article style=""><h1>Predictions&amp;colon; 16 digital marketing trends for 2016</h1><p>As 2015 draws to a close&amp;comma; digital marketing experts agree it has been a milestone year which has transformed the way businesses interact with customers online&amp;period; We've spoken to a raft of marketing leaders&amp;comma; analysts and industry commentators about what the digital marketing mix will look like in the new year and whether 2016 is shaping up to be even more competitive&amp;comma; complex and evolutionary&amp;period;</p><img src="http://cdn.cmo.com.au/dimg/800x800/dimg/charge-8.jpg" /></article>
+
+# 16 Digital Marketing Trends For 2016
