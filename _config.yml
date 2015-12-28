@@ -2,7 +2,7 @@ name: Digital Life
 favicon: null
 layout_spectrum: 0
 typography_spectrum: 0.9283154
-title: The Digital Journey of Spenno
+title: A Digital Journey
 collections:
   - index:
       path: /
