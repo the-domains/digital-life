@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: Digital Life
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.9283154
-layout_spectrum: 0.1630824
+layout_spectrum: 0
