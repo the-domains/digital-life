@@ -1,5 +1,8 @@
+name: Digital Life
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.9283154
 title: The Digital Journey of Spenno
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 0.297491
-  rhythmicContrast: 0
   brandColors:
     - '#ffc86e'
     - '#ffffff'
     - '#a2f28f'
     - '#5b6b6b'
     - '#000000'
-  lightness: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Digital Life
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9283154
-layout_spectrum: 0
+  brandStrength: 0.75
+  lightness: 0.8125
+  saturation: 0.75
+  rhythmicContrast: 0.5
+purpose: []
