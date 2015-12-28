@@ -1,7 +1,7 @@
 name: Digital Life
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.9283154
+layout_spectrum: 1
+typography_spectrum: 0.74867
 title: A Digital Journey
 collections:
   - index:
@@ -35,7 +35,7 @@ color:
     - '#5b6b6b'
     - '#000000'
   brandStrength: 0.75
-  lightness: 0.5
+  lightness: 0.5625
   saturation: 1
-  rhythmicContrast: 1
+  rhythmicContrast: 0.25
 purpose: []
