@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
+  favicon: 'http://graphic.christianpost.com/images/assets/favicon.ico'
   url: 'http://m.christianpost.com'
   name: Christianpost
-  favicon: 'http://graphic.christianpost.com/images/assets/favicon.ico'
   domain: m.christianpost.com
 keywords:
   - mars
@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://m.christianpost.com/news/nasa-will-let-you-explore-mars-in-2016-epic-games-unreal-engine-4-recreates-the-red-planet-153495/?m=1'
 title: Explore Planet Mars In 2016
-datePublished: '2015-12-28T18:24:49.874Z'
-dateModified: '2015-12-28T18:24:27.702Z'
+datePublished: '2015-12-28T22:05:06.636Z'
+dateModified: '2015-12-28T18:24:59.384Z'
 sourcePath: _posts/2015-12-28-explore-planet-mars-in-2016.md
 published: true
 inFeed: true
