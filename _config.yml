@@ -1,6 +1,6 @@
 name: Digital Life
 favicon: null
-layout_spectrum: 0.7432
+layout_spectrum: 0.4951
 typography_spectrum: 0.9283154
 title: The Digital Journey of Spenno
 collections:
@@ -35,7 +35,7 @@ color:
     - '#f1be3f'
     - '#f4012f'
   brandStrength: 0.5
-  lightness: 1
-  saturation: 0.5
+  lightness: 0.3125
+  saturation: 0.375
   rhythmicContrast: 0
 purpose: []
