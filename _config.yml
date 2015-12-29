@@ -36,6 +36,6 @@ color:
     - '#f4012f'
   brandStrength: 0.5
   lightness: 0.6875
-  saturation: 0.25
+  saturation: 0.375
   rhythmicContrast: 0.5
 purpose: []
