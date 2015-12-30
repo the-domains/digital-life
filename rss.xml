@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Digital Life]]></title>
-        <description><![CDATA[Digital Life]]></description>
+        <title><![CDATA[Nomadic Digitisation ]]></title>
+        <description><![CDATA[Nomadic Digitisation ]]></description>
         <link>https://thegrid.ai/digital-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 22:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Dec 2015 23:17:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Skills Academy - A few ideas for 2016 ]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[2016 predictions for IoT and smart homes]]></title>
-            <description><![CDATA[<article><h1>2016 predictions for IoT and smart homes</h1><p>Every day, various aspects of our lives are becoming easier - and more connected - through the Internet of Things and smart home technology. We are constantly generating data, receiving information, and in real-time communication with our devices and each other - from anywhere, at any time. And this connectedness is only increasing.</p><img src="http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2015/12/shutterstock_348414158.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>2016 predictions for IoT and smart homes</h1><p>Every day, various aspects of our lives are becoming easier - and more connected - through the Internet of Things and smart home technology. We are constantly generating data, receiving information, and in real-time communication with our devices and each other - from anywhere, at any time. And this connectedness is only increasing.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0d4960888b1d0117669fc5c41eb9ce9c25a35a62.jpg"></article>]]></description>
             <link>http://thenextweb.com/insider/2015/12/23/2016-predictions-for-iot-and-smart-homes/?es_sh=964ed474c9d9dc380d08310642b2492c&amp;es_ad=40718</link>
             <guid isPermaLink="false">8a34c76c-813a-40b1-95ed-3c046f232b74</guid>
             <pubDate>Thu, 24 Dec 2015 09:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10x VC Returns From Digital]]></title>
+            <description><![CDATA[<article><h1>10x VC Returns From Digital</h1><p>We're often asked to participate in talks or publications about Startup Studios. The common question is about the money. The tone is generally "Startup Studios are all well and good, but are they just a bunch of agency folk messing around?"</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e47d40c8bb77b6f799a682b01407ffcb0954557e.png"></article>]]></description>
+            <link>https://www.linkedin.com/pulse/how-mint-digital-generated-10x-vc-returns-tim-morgan?trk=v-feed</link>
+            <guid isPermaLink="false">d6a249c3-1bf2-43bb-a6cb-fb08b3639ed7</guid>
+            <pubDate>Wed, 30 Dec 2015 23:17:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Digital Yin & Yang - Adobe Analytics]]></title>
