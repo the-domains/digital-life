@@ -4,7 +4,7 @@
         <description><![CDATA[Nomadic Digitisation ]]></description>
         <link>https://thegrid.ai/digital-life/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Dec 2015 23:17:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2015 08:01:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/digital-life/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Digital Skills Academy - A few ideas for 2016 ]]></title>
@@ -19,6 +19,13 @@
             <link>http://thenextweb.com/insider/2015/12/23/2016-predictions-for-iot-and-smart-homes/?es_sh=964ed474c9d9dc380d08310642b2492c&amp;es_ad=40718</link>
             <guid isPermaLink="false">8a34c76c-813a-40b1-95ed-3c046f232b74</guid>
             <pubDate>Thu, 24 Dec 2015 09:51:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[FCA Shelve Inquiry Into Banking Culture]]></title>
+            <description><![CDATA[<article><h1>FCA Shelve Inquiry Into Banking Culture</h1><p>City regulator, the Financial Conduct Authority, has dropped its plans to conduct an inquiry into the culture and behaviour of staff in banking. The watchdog had planned to see whether pay, promotion, and other incentives contributed to misconduct seen in previous years. The review was meant to be a major piece of work by the FCA.</p><img src="http://ichef-1.bbci.co.uk/news/1024/cpsprodpb/5DE1/production/_87433042_fca_reuters.jpg"></article>]]></description>
+            <link>https://thegrid.ai/digital-life/fca-shelve-inquiry-into-banking-culture/index.html</link>
+            <guid isPermaLink="false">ef947f42-7879-4257-b4f0-e79d864fee5f</guid>
+            <pubDate>Thu, 31 Dec 2015 08:00:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[10x VC Returns From Digital]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/digital-life/apple-wants-another-dollar180m-off-samsung/index.html</link>
             <guid isPermaLink="false">a4213cbb-9a6a-463a-83f2-026ec9ca8026</guid>
             <pubDate>Sun, 27 Dec 2015 16:40:07 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Team Work]]></title>
-            <description><![CDATA[<article><h1>Team Work</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3d470098831d8957da26dc42a62ff4f8cc4bf4f1.png"></article>]]></description>
-            <link>https://thegrid.ai/digital-life/team-work/index.html</link>
-            <guid isPermaLink="false">c334023c-d765-4f12-b3f6-a044933b01ab</guid>
-            <pubDate>Sat, 26 Dec 2015 16:46:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
