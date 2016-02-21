@@ -1,41 +1,41 @@
-name: Digital Life
-favicon: null
-layout_spectrum: 0.74069
-typography_spectrum: 0.9283154
 title: 'Nomadic Digitisation '
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
 color:
+  saturation: 0.375
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#000000'
     - '#3e3633'
     - '#00a7b4'
     - '#f1be3f'
     - '#f4012f'
-  brandStrength: 0.5
   lightness: 0.6875
-  saturation: 0.375
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Digital Life
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9283154
+layout_spectrum: 0.672043
